@@ -91,6 +91,10 @@ PDB permanently deleted and verified
 
 ---
 
+### Task 3 Oracle Enterprise Manager
+<img width="1872" height="876" alt="image" src="https://github.com/user-attachments/assets/13fc8ff9-9a5b-424b-9850-48385d71c9c7" />
+
+
 
 ## Key SQL Commands
 
