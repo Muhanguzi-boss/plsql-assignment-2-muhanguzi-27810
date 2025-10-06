@@ -56,15 +56,21 @@ Screenshot
 - 
 
 #### Database Connection
+<img width="976" height="350" alt="image" src="https://github.com/user-attachments/assets/38ae4ce6-8c4c-451f-bc1c-ac583bb750cb" />
 Connected as SYSDBA
 
 #### PDB Creation
+<img width="919" height="415" alt="image" src="https://github.com/user-attachments/assets/912d3d18-bcdb-4e87-836b-43a546a38b73" />
+
 PDB creation command and success
 
 #### PDB Open
+<img width="910" height="415" alt="image" src="https://github.com/user-attachments/assets/1751e5af-3a03-492c-89ca-4f3f41033955" />
 PDB opened and state saved
 
 #### Show PDBs
+<img width="1002" height="364" alt="image" src="https://github.com/user-attachments/assets/20b670d2-c1f1-465f-b3ea-dbed40f826d5" />
+
 Verification showing PDB in READ WRITE mode
 
 ---
