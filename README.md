@@ -34,10 +34,26 @@ Create a permanent pluggable database for storing coursework.
 - **Status:** READ WRITE (Auto-open enabled)
 
 ### Task 1 Evidence
-- `01_database_connection.png` – Connected as SYSDBA  
-- `02_pdb_creation.png` – PDB creation command and success  
-- `03_pdb_open.png` – PDB opened and state saved  
-- `04_show_pdbs.png` – Verification showing PDB in READ WRITE mode  
+- `01_database_connection.png` – Connected as SYSDBA
+screenshot
+<img width="834" height="349" alt="image" src="https://github.com/user-attachments/assets/8770bf43-f79b-4c51-9328-99472f9f98be" />
+
+- 
+- `02_pdb_creation.png` – PDB creation command and success
+Screenshot
+<img width="840" height="499" alt="image" src="https://github.com/user-attachments/assets/755a53f3-58ac-4414-af36-03b5c1219e89" />
+
+- 
+- `03_pdb_open.png` – PDB opened and state saved
+Screenshot
+<img width="904" height="276" alt="image" src="https://github.com/user-attachments/assets/453a0f99-26eb-45cb-bb3b-279aad160760" />
+
+- 
+- `04_show_pdbs.png` – Verification showing PDB in READ WRITE mode
+Screenshot
+<img width="1001" height="638" alt="image" src="https://github.com/user-attachments/assets/1beb4464-09c7-4e80-a713-2387c687c7a3" />
+
+- 
 
 #### Database Connection
 Connected as SYSDBA
